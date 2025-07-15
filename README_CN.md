@@ -2,8 +2,8 @@
 
 <img src="pics/logo/Verge.png" width="200" height="200" alt="logo">
 
-# [Verge]()
+# [临界点]()
 
-👉 English | [简体中文](README_CN.md)
+👉 [English](./README.md) | 简体中文
 
 </div>
